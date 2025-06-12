@@ -6,5 +6,6 @@ Ein einfacher TCP/UDP-Portscanner mit Python. Entwickelt zu Lernzwecken im Berei
 - TCP-Support
 
 ## In Planung
+- GUI
 - UDP-Support
 - Multithreaded
