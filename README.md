@@ -3,5 +3,8 @@ Ein einfacher TCP/UDP-Portscanner mit Python. Entwickelt zu Lernzwecken im Berei
 
 ## Features
 - Scan einzelner oder mehrerer IPs
-- TCP/UDP-Support
+- TCP-Support
+
+## In Planung
+- UDP-Support
 - Multithreaded
